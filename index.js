@@ -1,10 +1,5 @@
 const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
-const person = {
-  name: 'Wes Bos',
-  age: 80
-};
 
-const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
 const team = players;
 console.log(players, team);
 const team2 = players.slice();

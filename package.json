@@ -1,0 +1,23 @@
+{
+  "name": "js-reference-vs-copying",
+  "version": "1.0.0",
+  "description": "Reference vs Copying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/JS-Reference-VS-Copying.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/JS-Reference-VS-Copying/issues"
+  },
+  "homepage": "https://github.com/argenis0409/JS-Reference-VS-Copying#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
